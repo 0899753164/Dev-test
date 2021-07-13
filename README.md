@@ -10,3 +10,6 @@
   - กรอกค่าเงินเป็นตัวเลข เช่น 100
   - เลือกสกุลเงิน
   - ผลลัพธ์ (THB.)
+
+# file
+  [Dev-test.pdf](https://github.com/0899753164/Dev-test/files/6811163/Dev-test.pdf)
